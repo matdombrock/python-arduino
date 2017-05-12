@@ -15,6 +15,8 @@ This is a simple set of scripts for getting output from an Arduino to act is inp
 # what are these numbers?
 ```1/0/1/1/0/0/277/0/0/0/0/0/```
 
+Above is an example of serial output to be read by Python.
+
 ````D7  /  D6 /  D5  /  D4 /  D3 / D2 / A5 / A4  / A3 / A2 / A1 / A0  /````
  
 Above is a list of how the input is ordered.
