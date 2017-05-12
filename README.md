@@ -1,9 +1,9 @@
 # Python-Arduino [Alpha]
  
 # what's this??
-This software will let you write programs on your computer (using Python) that interact with an Arduino Uno. For instance, you might press a button on the arduino that opens a web browser, or hit a key macro. In the future, you will also be able to send data to the Arduino that could tell it to turn on a LED or start a motor.
+This software will let you write programs on your computer (using Python) that interact with an Arduino Uno. For instance, you might press a button on the Arduino that opens a web browser, or hit a key macro. In the future, you will also be able to send data to the Arduino that could tell it to turn on a LED or start a motor.
 
-This is a simple set of scripts for getting output from an Arduino to act is input for Python. Currently this only supports reading analog input. Support for Digital Read and Output is planned, but not available at this time.
+This is a simple set of scripts for getting output from an Arduino to act is input for Python. Currently this only supports reading analog input. Support for Output is planned, but not available at this time.
 
 # how to use?
 - Install ```python3```
