@@ -1,5 +1,7 @@
+# (Alpha)
+ 
 # what's this??
-A simple set of scripts for getting output from an Arduino to act is input for Python.
+A simple set of scripts for getting output from an Arduino to act is input for Python. Currently this only supports reading analog input. Support for Digital and Output is planned, but not available at this time.
 
 # how to use?
 - Install ```python3```
