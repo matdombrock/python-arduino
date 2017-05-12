@@ -2,8 +2,9 @@
 A simple set of scripts for getting output from an Arduino to act is input for Python.
 
 # how to use?
-- Install python3
-- Install pyserial
+- Install ```python3```
+- Install ```pyserial``` (Use PIP)
+- Upload ```mionitor.ino``` to the Arduino.
 - adjust monitor.py to include your COM location as the COM variable (ie COM3 or /dev/ttyACM0)
 - run with ```python monitor.py --monitor``` (You may have to run as root on linux)
 
