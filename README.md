@@ -5,8 +5,8 @@ A simple set of scripts for getting output from an Arduino to act is input for P
 - Install ```python3```
 - Install ```pyserial``` (Use PIP)
 - Upload ```mionitor.ino``` to the Arduino.
-- adjust monitor.py to include your COM location as the COM variable (ie COM3 or /dev/ttyACM0)
-- run with ```python monitor.py --monitor``` (You may have to run as root on linux)
+- Adjust ```monitor.py``` to include your COM location as the COM variable (ie ```COM3``` or ```/dev/ttyACM0```)
+- Run with ```python monitor.py --monitor``` (You may have to run as root on linux)
 
 # what are these numbers?
 ```1/0/1/1/0/0/277/0/0/0/0/0/```
