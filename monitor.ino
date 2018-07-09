@@ -13,28 +13,28 @@ void loop() {
   // put your main code here, to run repeatedly:
   
   Serial.print(digitalRead(7));
-  Serial.print("/");
+  Serial.print("|");
   Serial.print(digitalRead(6));
-  Serial.print("/");
+  Serial.print("|");
   Serial.print(digitalRead(5));
-  Serial.print("/");
+  Serial.print("|");
   Serial.print(digitalRead(4));
-  Serial.print("/");
+  Serial.print("|");
   Serial.print(digitalRead(3));
-  Serial.print("/");
+  Serial.print("|");
   Serial.print(digitalRead(2));
-  Serial.print("/");
+  Serial.print("|");
   Serial.print(analogRead(5));
-  Serial.print("/");
+  Serial.print("|");
   Serial.print(analogRead(4));
-  Serial.print("/");
+  Serial.print("|");
   Serial.print(analogRead(3));
-  Serial.print("/");
+  Serial.print("|");
   Serial.print(analogRead(2));
-  Serial.print("/");
+  Serial.print("|");
   Serial.print(analogRead(1));
-  Serial.print("/");
+  Serial.print("|");
   Serial.print(analogRead(0));
-  Serial.print("/");
+  Serial.print("|");
   Serial.println(" ");
 }
